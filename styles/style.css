@@ -157,6 +157,9 @@ hr {
     grid-template-columns: repeat(1, 1fr);
   }
 
+  .course {
+    margin-bottom: 30px;
+  }
   .player {
     justify-content: center;
     flex-direction: column;
