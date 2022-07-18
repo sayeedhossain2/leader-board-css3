@@ -100,17 +100,6 @@ hr {
   grid-column-gap: 25px;
 }
 
-/* .course {
-  width: 252px;
-  height: 269px;
-  border: 1px solid;
-
-  margin: 0 auto;
-  padding: 15px;
-  border-radius: 10px;
-  box-shadow: 5px 5px 20px 2px rgb(186, 178, 178);
-} */
-
 .course .course-banner img {
   width: 266px;
   height: 141px;
